@@ -1,2 +1,2 @@
 # ConstSoft
-Almacena la tarea de Construcción de software
+Almacena los archivos con el código en java que forman parte del proyecto de calculadora
